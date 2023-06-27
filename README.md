@@ -1,6 +1,5 @@
 # Photo Editing and Saving
 
-"""
 Process steps
 -----------------
 HTML, CSS, JavaScript
@@ -22,10 +21,9 @@ Python
 
 Displaying the last rendered image to the user
 
-"""
+
 # Fotoğraf Düzenleme ve Kaydetme
 
-"""
 İşlem Adımları
 -----------------
 HTML, CSS, JavaScript
@@ -47,5 +45,5 @@ Python
 
 Son olarak işlenen resmin kullanıcıya gösterilmesi
 
-"""
+
 
